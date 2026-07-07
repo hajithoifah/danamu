@@ -1,0 +1,125 @@
+{
+    "categories": [
+        {
+            "id": "cara_daftar_pinjol_legal",
+            "title": "Cara daftar Pinjol Legal pasti di ACC",
+            "description": "5 tahapan lengkap mengajukan pinjaman online resmi agar disetujui.",
+            "articles": [
+                {
+                    "id": "p1_1",
+                    "title": "Tahap 1: Memilih Aplikasi Pinjol Resmi OJK",
+                    "content": "Langkah pertama yang paling krusial adalah memastikan bahwa aplikasi pinjaman online yang Anda pilih telah terdaftar dan berizin resmi di Otoritas Jasa Keuangan (OJK). Jangan pernah mengunduh aplikasi di luar Google Play Store resmi atau melalui link SMS/WhatsApp. Periksa daftar terbaru di situs resmi OJK sebelum memasukkan data pribadi apa pun."
+                },
+                {
+                    "id": "p1_2",
+                    "title": "Tahap 2: Menyiapkan Dokumen Persyaratan yang Valid",
+                    "content": "Pinjol legal membutuhkan dokumen asli seperti e-KTP, swafoto (selfie) holding KTP, serta bukti penghasilan (slip gaji atau mutasi rekening). Pastikan foto KTP terlihat sangat jelas, tidak blur, pencahayaan cukup, dan teks dapat terbaca oleh sistem OCR (Optical Character Recognition) mereka. Ketidakjelasan foto KTP adalah penyebab utama penolakan otomatis."
+                },
+                {
+                    "id": "p1_3",
+                    "title": "Tahap 3: Mengisi Data Finansial Secara Jujur",
+                    "content": "Saat mengisi formulir digital, masukkan data pekerjaan, alamat, pendapatan bulanan, dan nomor kontak darurat dengan jujur. Sistem scoring pinjol legal terhubung dengan database alternatif yang bisa mendeteksi ketidaksesuaian data. Jika Anda memanipulasi nilai pendapatan atau status pekerjaan, pengajuan Anda akan otomatis masuk daftar hitam (blacklist)."
+                },
+                {
+                    "id": "p1_4",
+                    "title": "Tahap 4: Memahami Aturan Kontak Darurat",
+                    "content": "Sesuai aturan OJK, pinjol legal hanya diizinkan meminta maksimal 2-3 kontak darurat dan mereka harus mengonfirmasi kontak tersebut. Pastikan nomor kontak darurat yang Anda masukkan adalah orang terdekat yang aktif dan sudah Anda beri tahu sebelumnya. Pinjol legal dilarang keras menyalin atau mengakses seluruh daftar kontak di ponsel Anda."
+                },
+                {
+                    "id": "p1_5",
+                    "title": "Tahap 5: Proses Verifikasi dan Penandatanganan Elektronik",
+                    "content": "Setelah data dikirim, Anda akan melalui tahap verifikasi wajah (liveness test) seperti mengedipkan mata atau menggelengkan kepala untuk memastikan itu adalah Anda. Jika disetujui, Anda wajib membaca kontrak pinjaman digital mengenai bunga, biaya admin, dan denda, lalu menandatanganinya menggunakan sertifikasi elektronik resmi (seperti PrivyID atau DigiSign)."
+                }
+            ]
+        },
+        {
+            "id": "pinjol_legal_indonesia",
+            "title": "Pinjol Legal yang tersedia di Indonesia",
+            "description": "Daftar aplikasi populer di Playstore dan 5 tahapan detail pendaftarannya.",
+            "articles": [
+                {
+                    "id": "p2_1",
+                    "title": "Daftar Aplikasi Pinjol Legal Populer di Playstore",
+                    "content": "Beberapa platform pinjaman online yang terdaftar resmi dan memiliki reputasi baik di Indonesia antara lain: Akulaku, Kredivo, EasyCash, AdaKami, dan Indodana. Semua aplikasi ini tersedia secara resmi di Google Play Store dan mematuhi regulasi batas bunga maksimal harian yang ditetapkan oleh AFPI dan OJK."
+                },
+                {
+                    "id": "p2_2",
+                    "title": "Tahap 1: Mengunduh dari Sumber Resmi",
+                    "content": "Cari nama aplikasi di Playstore, pastikan developer aplikasinya sesuai dengan nama perusahaan resmi. Jangan pernah menginstal file berbentuk .APK yang dikirimkan oleh oknum melalui chat personal, karena itu adalah modus penipuan pinjol ilegal untuk menyadap data ponsel Anda."
+                },
+                {
+                    "id": "p2_3",
+                    "title": "Tahap 2: Manajemen Izin Aplikasi (Permissions)",
+                    "content": "Saat pertama kali membuka aplikasi pinjol legal, sistem hanya akan meminta izin akses Kamera, Lokasi, dan Mikrofon (aturan CAMILAN dari OJK). Jika aplikasi meminta izin akses Kontak, Galeri Foto, atau Penyimpanan Internal, segera batalkan karena itu adalah ciri utama pinjol ilegal."
+                },
+                {
+                    "id": "p2_4",
+                    "title": "Tahap 3: Pembuatan Akun & OTP",
+                    "content": "Masukkan nomor telepon utama Anda yang terikat dengan data perbankan atau e-wallet. Masukkan kode OTP yang dikirimkan melalui SMS. Ingat, jangan pernah membagikan kode OTP ini kepada siapapun, termasuk kepada customer service dari pihak aplikasi itu sendiri."
+                },
+                {
+                    "id": "p2_5",
+                    "title": "Tahap 4: Pengajuan Limit Kredit",
+                    "content": "Sebelum bisa mencairkan dana, Anda harus mengajukan penilaian limit kredit terlebih dahulu dengan mengisi formulir profil risiko. Isilah data tersebut dengan lengkap. Limit akan diberikan berdasarkan kemampuan bayar Anda yang dihitung secara otomatis oleh algoritma sistem."
+                }
+            ]
+        },
+        {
+            "id": "cara_hadapi_galbay",
+            "title": "Cara hadapi masalah Galbay",
+            "description": "10 artikel proses, teknis gagal bayar, dan penyelesaian aman.",
+            "articles": [
+                {
+                    "id": "p3_1",
+                    "title": "Artikel 1: Memahami Apa itu Gagal Bayar (Galbay)",
+                    "content": "Gagal bayar terjadi ketika debitur tidak mampu melunasi cicilan sesuai tanggal jatuh tempo. Pada pinjol legal, konsekuensi pertama adalah pengenaan denda keterlambatan dan penurunan skor kredit di SLIK OJK (Sistem Layanan Informasi Keuangan)."
+                },
+                {
+                    "id": "p3_2",
+                    "title": "Artikel 2: Regulasi Penagihan Lapangan (DC) Menurut OJK",
+                    "content": "OJK melarang keras penagihan menggunakan ancaman, kekerasan, atau mempermalukan debitur. Debt Collector (DC) resmi wajib membawa kartu identitas, surat tugas, dan sertifikat profesi penagihan dari AFPI."
+                },
+                {
+                    "id": "p3_3",
+                    "title": "Artikel 3: Jangan Melakukan Gali Lubang Tutup Lubang",
+                    "content": "Kesalahan terbesar saat galbay adalah meminjam di aplikasi baru untuk membayar utang lama. Hal ini membuat utang berlipat ganda dengan cepat karena akumulasi biaya administrasi dan bunga baru yang membengkak."
+                },
+                {
+                    "id": "p3_4",
+                    "title": "Artikel 4: Cara Mengajukan Restrukturisasi Pinjaman",
+                    "content": "Jika benar-benar tidak mampu membayar, hubungi pihak pinjol secara resmi untuk mengajukan keringanan (restrukturisasi). Keringanan ini bisa berupa perpanjangan tenor, pengurangan bunga, atau penghapusan denda."
+                },
+                {
+                    "id": "p3_5",
+                    "title": "Artikel 5: Menghadapi Teror Pinjol Ilegal",
+                    "content": "Jika terjebak di pinjol ilegal dan mendapatkan teror penyebaran data, langkah terbaik adalah mengabaikannya, mengamankan kontak, dan melaporkannya ke Kemenkominfo serta Satgas Pasti OJK."
+                },
+                {
+                    "id": "p3_6",
+                    "title": "Artikel 6: Dampak Galbay Terhadap SLIK OJK",
+                    "content": "Gagal bayar di pinjol legal akan mencoreng riwayat kredit Anda di SLIK OJK dengan status Kolektibilitas Macet. Dampaknya, Anda akan kesulitan mengajukan KPR atau kredit kendaraan di masa depan."
+                },
+                {
+                    "id": "p3_7",
+                    "title": "Artikel 7: Membedakan DC Legal dan DC Gadungan",
+                    "content": "DC legal selalu bersikap profesional dan hanya menagih ke alamat rumah terdaftar. Jika ada oknum menagih ke kantor tanpa izin atau mengintimidasi kontak luar darurat, mereka melanggar SOP dan bisa dipidanakan."
+                },
+                {
+                    "id": "p3_8",
+                    "title": "Artikel 8: Mengelola Mental Saat Menghadapi Tekanan Utang",
+                    "content": "Tekanan psikologis saat galbay sangat berat. Tetap tenang, diskusikan kondisi keuangan secara terbuka dengan keluarga, dan fokus pada pemulihan ekonomi internal terlebih dahulu daripada panik merespons panggilan penagihan."
+                },
+                {
+                    "id": "p3_9",
+                    "title": "Artikel 9: Mediasi Melalui Lembaga Konsumen atau LBH",
+                    "content": "Jika merasa dirugikan oleh cara penagihan yang melanggar hukum, Anda bisa meminta bantuan mediasi atau pendampingan hukum secara gratis ke Lembaga Bantuan Hukum (LBH) atau YLKI."
+                },
+                {
+                    "id": "p3_10",
+                    "title": "Artikel 10: Langkah Menuju Pelunasan dan Pembersihan Nama",
+                    "content": "Setelah ekonomi stabil, bayarlah pokok utang yang disepakati melalui jalur resmi aplikasi (Virtual Account). Pastikan meminta Surat Keterangan Lunas (SKL) sebagai bukti resmi untuk pembersihan nama di SLIK OJK."
+                }
+            ]
+        }
+    ]
+}
