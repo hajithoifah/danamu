@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "id": 1,
+    "title": "Liquid Wallpapers(34)",
+    "category": "General",
+    "url": "https://raw.githubusercontent.com/hajithoifah/danamu/main/images/liquid_wallpapers(34).webp"
+  },
+  {
+    "id": 2,
+    "title": "Liquid Wallpapers(35)",
+    "category": "General",
+    "url": "https://raw.githubusercontent.com/hajithoifah/danamu/main/images/liquid_wallpapers(35).webp"
+  },
+  {
+    "id": 3,
+    "title": "Liquid Wallpapers(36)",
+    "category": "General",
+    "url": "https://raw.githubusercontent.com/hajithoifah/danamu/main/images/liquid_wallpapers(36).webp"
+  },
+  {
+    "id": 4,
+    "title": "Liquid Wallpapers(37)",
+    "category": "General",
+    "url": "https://raw.githubusercontent.com/hajithoifah/danamu/main/images/liquid_wallpapers(37).webp"
+  },
+  {
+    "id": 5,
+    "title": "Liquid Wallpapers(38)",
+    "category": "General",
+    "url": "https://raw.githubusercontent.com/hajithoifah/danamu/main/images/liquid_wallpapers(38).webp"
+  },
+  {
+    "id": 6,
+    "title": "Liquid Wallpapers(39)",
+    "category": "General",
+    "url": "https://raw.githubusercontent.com/hajithoifah/danamu/main/images/liquid_wallpapers(39).webp"
+  }
+]
