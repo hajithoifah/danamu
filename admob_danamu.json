@@ -2,13 +2,13 @@
     "admob_config": {
         "is_ads_enabled": true,
         "cooldown_seconds": 60,
-        "app_id": "ca-app-pub-3940256099942544~3347511713",
+        "app_id": "ca-app-pub-6335103216414556~1444118573",
         "unit_ids": {
-            "app_open": "ca-app-pub-3940256099942544/9257395921",
-            "interstitial": "ca-app-pub-3940256099942544/1033173712",
-            "rewarded": "ca-app-pub-3940256099942544/5224354917",
-            "native": "ca-app-pub-3940256099942544/2247696110",
-            "banner": "ca-app-pub-3940256099942544/6300978111"
+            "app_open": "ca-app-pub-6335103216414556/1571303781",
+            "interstitial": "ca-app-pub-6335103216414556/8136712136",
+            "rewarded": "ca-app-pub-6335103216414556/3816369343",
+            "native": "ca-app-pub-6335103216414556/1547253058",
+            "banner": "ca-app-pub-6335103216414556/9449793808"
         }
     }
 }
